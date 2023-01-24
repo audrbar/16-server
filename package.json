@@ -1,0 +1,17 @@
+{
+  "name": "16-server",
+  "version": "1.0.0",
+  "description": "Server Tutorial",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --port=4116 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["server", "nodemon", "nodejs"],
+  "author": "audrbar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
