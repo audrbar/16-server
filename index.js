@@ -8,6 +8,7 @@ app.init = () => {
     // - file
     // gauti prisijungima prie DB
     // uzkurti serveri
+    console.log('Pradedam...');
     server.init();
 
     // const timer = setInterval(() => {
